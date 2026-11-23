@@ -1,0 +1,21 @@
+Jane Example
+jane@example.com
+
+Summary
+Backend software engineer building Python applications and cloud services.
+
+Skills
+Python, FastAPI, PostgreSQL, Docker, AWS, REST APIs, CI/CD, GitHub Actions, pytest, Git
+
+Experience
+Senior Software Engineer | Example SaaS | 2022 - Present
+- Built and shipped Python and FastAPI services on AWS, using PostgreSQL and Docker.
+- Improved API performance and availability by addressing slow database queries and adding service-level monitoring.
+- Maintained REST APIs for the customer portal and added automated integration tests to the deployment pipeline.
+
+Software Engineer | Example Systems | 2019 - 2022
+- Implemented API integrations and improved CI/CD quality gates.
+- Participated in design reviews and incident postmortems with engineering and product teams.
+
+Education
+BSc in Computer Science

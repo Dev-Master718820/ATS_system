@@ -1,0 +1,12 @@
+Senior Backend Software Engineer
+
+We are hiring a Senior Backend Software Engineer to develop reliable cloud-native APIs for a high-scale SaaS platform.
+
+Required: Python, FastAPI, PostgreSQL, Docker, AWS, and REST APIs.
+Required: Experience designing microservices and production-ready CI/CD pipelines.
+Preferred: Kubernetes, Terraform and Kafka.
+
+Responsibilities:
+- Own backend services end-to-end, from API contracts and data modeling through deployment and monitoring.
+- Write integration tests and review code.
+- Partner with product managers and frontend engineers to scope deliverables.
